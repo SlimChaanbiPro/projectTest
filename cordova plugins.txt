@@ -1,0 +1,1 @@
+http://ngcordova.com/docs/plugins/contacts/
